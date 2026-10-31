@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Halloween Party Invitation</title>
+<style>
+  @font-face { font-family: 'Patrick Hand'; src: url('fonts/patrick-hand-latin-400-normal.woff2') format('woff2'); }
+  @font-face { font-family: 'Permanent Marker'; src: url('fonts/permanent-marker-latin-400-normal.woff2') format('woff2'); }
+  :root { --bg: #1b1510; --fg: #f3e8d2; --accent: #e0782f; }
+  html, body { margin: 0; background: var(--bg); color: var(--fg); font-family: 'Patrick Hand', sans-serif; }
+  .wrap { max-width: 1280px; margin: 0 auto; padding: 16px; }
+  canvas { width: 100%; height: auto; display: block; border-radius: 6px; box-shadow: 0 10px 40px rgba(0,0,0,.5); background: #e9dcc0; }
+  .bar { display: flex; gap: 12px; align-items: center; margin-top: 12px; }
+  button { font: 22px 'Permanent Marker', sans-serif; background: var(--accent); color: #fff; border: 0; padding: 8px 18px; border-radius: 6px; cursor: pointer; }
+  input[type=range] { flex: 1; accent-color: var(--accent); }
+  .time { font-size: 20px; min-width: 120px; text-align: right; }
+  body.render .bar, body.render .wrap > p { display: none; }
+  body.render .wrap { padding: 0; } body.render canvas { border-radius: 0; box-shadow: none; width: 1280px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <canvas id="c" width="1280" height="720"></canvas>
+  <div class="bar">
+    <button id="play">▶ Play</button>
+    <input id="seek" type="range" min="0" max="1500" step="0.1" value="0">
+    <span class="time" id="time">0:00</span>
+  </div>
+  <p>Live player: the animation is drawn in real time from <code>timeline.json</code>, synced to the recording.</p>
+  <audio id="audio" src="../The%20Halloween%20Party%20Invitation.mp3" preload="auto"></audio>
+</div>
+<script src="js/engine.js"></script>
+<script src="js/characters.js"></script>
+<script src="js/scenes.js"></script>
+<script src="js/main.js"></script>
+<script>
+(async () => {
+  const render = new URLSearchParams(location.search).has('render');
+  if (render) document.body.classList.add('render');
+  await init();
+  if (render) { renderAt(0); return; }
+  const audio = document.getElementById('audio'), seek = document.getElementById('seek'), btn = document.getElementById('play'), tm = document.getElementById('time');
+  seek.max = TOTAL;
+  let T = 0, playing = false, t0 = 0, wall0 = 0;
+  const fmt = s => `${Math.floor(s / 60)}:${String(Math.floor(s % 60)).padStart(2, '0')}`;
+  function sync() { const a = T - INTRO; if (a >= 0 && a < audio.duration) { audio.currentTime = a; if (playing) audio.play(); } else audio.pause(); }
+  btn.onclick = () => { playing = !playing; btn.textContent = playing ? '❚❚ Pause' : '▶ Play'; t0 = T; wall0 = performance.now(); if (playing) sync(); else audio.pause(); };
+  seek.oninput = () => { T = +seek.value; t0 = T; wall0 = performance.now(); sync(); };
+  let last = -1;
+  (function loop() {
+    if (playing) {
+      const a = audio.currentTime;
+      if (!audio.paused && T >= INTRO) T = a + INTRO; else T = t0 + (performance.now() - wall0) / 1000;
+      if (T >= INTRO && audio.paused && T - INTRO < audio.duration) { audio.currentTime = T - INTRO; audio.play(); }
+      if (T > TOTAL) { playing = false; btn.textContent = '▶ Play'; }
+      seek.value = T;
+    }
+    const q = Math.floor(T * 12) / 12; // 12 fps stop-motion
+    if (q !== last) { renderAt(q); last = q; }
+    tm.textContent = `${fmt(T)} / ${fmt(TOTAL)}`;
+    requestAnimationFrame(loop);
+  })();
+})();
+</script>
+</body>
+</html>

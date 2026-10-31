@@ -1,0 +1,2273 @@
+{
+ "scenes": [
+  {
+   "n": 1,
+   "title": "THE INVITATION",
+   "start": 0.0,
+   "end": 147.88
+  },
+  {
+   "n": 2,
+   "title": "THE LAST HARVEST: SAMHAIN",
+   "start": 147.88,
+   "end": 404.48
+  },
+  {
+   "n": 3,
+   "title": "A VERY MODERN HALLOWEEN",
+   "start": 404.48,
+   "end": 633.61
+  },
+  {
+   "n": 4,
+   "title": "THE BRIDGE: ROME, CHURCH, AND CUSTOMS",
+   "start": 633.61,
+   "end": 1024.31
+  },
+  {
+   "n": 5,
+   "title": "THE QUESTION OF COMPROMISE",
+   "start": 1024.31,
+   "end": 1344.31
+  },
+  {
+   "n": 6,
+   "title": "THE SAFE RETURN",
+   "start": 1344.31,
+   "end": 1472.88
+  }
+ ],
+ "items": [
+  {
+   "kind": "cue",
+   "scene": 1,
+   "type": "Music",
+   "text": "A cozy, mischievous orchestral theme—plucked strings, curious woodwinds, a warm brass flourish. Fade beneath dialogue.",
+   "t": 0.0
+  },
+  {
+   "kind": "cue",
+   "scene": 1,
+   "type": "SFX",
+   "text": "Small research room. A wall clock ticks, ventilation hums, keyboard taps, a mug settles on a desk. Outside, distant autumn wind moves dry leaves along a window.",
+   "t": 0.0
+  },
+  {
+   "kind": "line",
+   "scene": 1,
+   "speaker": "TIM",
+   "text": "Matt! Important question. Life-changing question. Potentially snack-changing question.",
+   "dir": "",
+   "start": 0.27,
+   "end": 6.29
+  },
+  {
+   "kind": "line",
+   "scene": 1,
+   "speaker": "MATT",
+   "text": "Those are usually three different questions.",
+   "dir": "",
+   "start": 6.29,
+   "end": 9.4
+  },
+  {
+   "kind": "line",
+   "scene": 1,
+   "speaker": "TIM",
+   "text": "Halloween party. Saturday night. Costumes, food, music, more food, and a dessert table I have personally verified exists.",
+   "dir": "",
+   "start": 9.4,
+   "end": 19.67
+  },
+  {
+   "kind": "line",
+   "scene": 1,
+   "speaker": "MATT",
+   "text": "You verified it?",
+   "dir": "",
+   "start": 19.67,
+   "end": 21.15
+  },
+  {
+   "kind": "line",
+   "scene": 1,
+   "speaker": "TIM",
+   "text": "I have a diagram. There are arrows. The brownies have their own section.",
+   "dir": "",
+   "start": 21.54,
+   "end": 26.72
+  },
+  {
+   "kind": "cue",
+   "scene": 1,
+   "type": "SFX",
+   "text": "Paper unfolds extravagantly; a pencil rolls across the desk.",
+   "t": 26.72
+  },
+  {
+   "kind": "line",
+   "scene": 1,
+   "speaker": "MATT",
+   "text": "I'm impressed by your research standards.",
+   "dir": "",
+   "start": 26.72,
+   "end": 29.69
+  },
+  {
+   "kind": "line",
+   "scene": 1,
+   "speaker": "TIM",
+   "text": "So you're coming?",
+   "dir": "",
+   "start": 29.69,
+   "end": 30.97
+  },
+  {
+   "kind": "line",
+   "scene": 1,
+   "speaker": "MATT",
+   "text": "Thanks for inviting me. But no. I don't celebrate Halloween.",
+   "dir": "",
+   "start": 30.97,
+   "end": 35.87
+  },
+  {
+   "kind": "cue",
+   "scene": 1,
+   "type": "Music",
+   "text": "Tiny record-scratch sting.",
+   "t": 35.87
+  },
+  {
+   "kind": "line",
+   "scene": 1,
+   "speaker": "TIM",
+   "text": "Wait. You—Matt—the man who brought cupcakes to a meeting about paper clips—don't celebrate Halloween?",
+   "dir": "",
+   "start": 35.87,
+   "end": 44.34
+  },
+  {
+   "kind": "line",
+   "scene": 1,
+   "speaker": "MATT",
+   "text": "Correct.",
+   "dir": "",
+   "start": 44.34,
+   "end": 45.27,
+   "interpolated": true
+  },
+  {
+   "kind": "line",
+   "scene": 1,
+   "speaker": "TIM",
+   "text": "But you love parties!",
+   "dir": "",
+   "start": 45.27,
+   "end": 46.87
+  },
+  {
+   "kind": "line",
+   "scene": 1,
+   "speaker": "MATT",
+   "text": "I do. I love friendship, music, food, and laughter. Especially food and laughter in the same room.",
+   "dir": "",
+   "start": 46.87,
+   "end": 54.04
+  },
+  {
+   "kind": "line",
+   "scene": 1,
+   "speaker": "TIM",
+   "text": "So what's wrong with this party?",
+   "dir": "",
+   "start": 54.04,
+   "end": 56.43
+  },
+  {
+   "kind": "line",
+   "scene": 1,
+   "speaker": "MATT",
+   "text": "I didn't say you were wrong for inviting me. I said I don't celebrate it.",
+   "dir": "",
+   "start": 56.74,
+   "end": 61.71
+  },
+  {
+   "kind": "line",
+   "scene": 1,
+   "speaker": "TIM",
+   "text": "Why not?",
+   "dir": "",
+   "start": 61.71,
+   "end": 62.31
+  },
+  {
+   "kind": "line",
+   "scene": 1,
+   "speaker": "MATT",
+   "text": "How much time do you have?",
+   "dir": "",
+   "start": 62.31,
+   "end": 64.13
+  },
+  {
+   "kind": "line",
+   "scene": 1,
+   "speaker": "TIM",
+   "text": "Enough for an explanation. Not enough for one of your twelve-hour historical lectures.",
+   "dir": "",
+   "start": 64.13,
+   "end": 70.66
+  },
+  {
+   "kind": "line",
+   "scene": 1,
+   "speaker": "MATT",
+   "text": "Excellent. Follow me.",
+   "dir": "",
+   "start": 70.66,
+   "end": 72.36
+  },
+  {
+   "kind": "cue",
+   "scene": 1,
+   "type": "SFX",
+   "text": "A heavy sliding door unlatches. They walk into a larger room; the reverberation subtly changes. An electric motor whirs; floor panels click into place.",
+   "t": 72.36
+  },
+  {
+   "kind": "line",
+   "scene": 1,
+   "speaker": "TIM",
+   "text": "Oh, the timeline room! Now you're speaking my language.",
+   "dir": "",
+   "start": 72.36,
+   "end": 76.66
+  },
+  {
+   "kind": "line",
+   "scene": 1,
+   "speaker": "MATT",
+   "text": "It's the historical environment simulator. We've spent three years calibrating smell, temperature, acoustic scale, and—",
+   "dir": "",
+   "start": 77.02,
+   "end": 85.71
+  },
+  {
+   "kind": "line",
+   "scene": 1,
+   "speaker": "TIM",
+   "text": "Does it simulate snacks?",
+   "dir": "",
+   "start": 85.71,
+   "end": 87.54
+  },
+  {
+   "kind": "line",
+   "scene": 1,
+   "speaker": "MATT",
+   "text": "Not after what you did during the medieval banquet test.",
+   "dir": "",
+   "start": 87.8,
+   "end": 92.04
+  },
+  {
+   "kind": "line",
+   "scene": 1,
+   "speaker": "TIM",
+   "text": "In my defense, that roast chicken looked very real.",
+   "dir": "",
+   "start": 92.04,
+   "end": 95.91
+  },
+  {
+   "kind": "line",
+   "scene": 1,
+   "speaker": "MATT",
+   "text": "It was my desk lamp.",
+   "dir": "",
+   "start": 95.91,
+   "end": 97.03
+  },
+  {
+   "kind": "cue",
+   "scene": 1,
+   "type": "SFX",
+   "text": "Metallic click; a lamp rattles.",
+   "t": 97.4
+  },
+  {
+   "kind": "line",
+   "scene": 1,
+   "speaker": "TIM",
+   "text": "Still smelled delicious.",
+   "dir": "",
+   "start": 97.78,
+   "end": 107.81
+  },
+  {
+   "kind": "line",
+   "scene": 1,
+   "speaker": "MATT",
+   "text": "Today we're exploring a question people of faith genuinely disagree about: Can a celebration be separated from its history? And if something has dark associations, can Christians give it a different meaning?",
+   "dir": "",
+   "start": 108.21,
+   "end": 113.18
+  },
+  {
+   "kind": "line",
+   "scene": 1,
+   "speaker": "TIM",
+   "text": "My answer was going to be, “It's a fun evening with candy.”",
+   "dir": "",
+   "start": 113.18,
+   "end": 116.61
+  },
+  {
+   "kind": "line",
+   "scene": 1,
+   "speaker": "MATT",
+   "text": "Then let's examine where some of those familiar customs came from, what changed over the centuries, and how Scripture might help us make thoughtful choices.",
+   "dir": "",
+   "start": 116.99,
+   "end": 126.03
+  },
+  {
+   "kind": "line",
+   "scene": 1,
+   "speaker": "TIM",
+   "text": "Is there a quiz?",
+   "dir": "",
+   "start": 126.03,
+   "end": 127.01
+  },
+  {
+   "kind": "line",
+   "scene": 1,
+   "speaker": "MATT",
+   "text": "Only if you touch the red dial.",
+   "dir": "",
+   "start": 127.42,
+   "end": 129.61
+  },
+  {
+   "kind": "cue",
+   "scene": 1,
+   "type": "SFX",
+   "text": "Tim taps a control. Alarm chirp.",
+   "t": 129.61
+  },
+  {
+   "kind": "line",
+   "scene": 1,
+   "speaker": "TIM",
+   "text": "The red dial?",
+   "dir": "",
+   "start": 129.61,
+   "end": 130.57
+  },
+  {
+   "kind": "line",
+   "scene": 1,
+   "speaker": "MATT",
+   "text": "Tim!",
+   "dir": "",
+   "start": 130.57,
+   "end": 130.97
+  },
+  {
+   "kind": "cue",
+   "scene": 1,
+   "type": "SFX",
+   "text": "WHOOM—low frequency swell. Air rushes from vents. Clock ticks stretch, then dissolve into wind.",
+   "t": 130.97
+  },
+  {
+   "kind": "cue",
+   "scene": 1,
+   "type": "Music",
+   "text": "Rising, adventurous strings.",
+   "t": 130.97
+  },
+  {
+   "kind": "line",
+   "scene": 1,
+   "speaker": "MATT",
+   "text": "If you're listening with us, you can come along. Just remember: we are still inside a room. No actual time travel. And please don't lick the ancient scenery.",
+   "dir": "Turns toward the listener, smiling.",
+   "start": 130.91,
+   "end": 142.06
+  },
+  {
+   "kind": "line",
+   "scene": 1,
+   "speaker": "TIM",
+   "text": "That warning feels extremely specific.",
+   "dir": "",
+   "start": 142.06,
+   "end": 144.69
+  },
+  {
+   "kind": "line",
+   "scene": 1,
+   "speaker": "MATT",
+   "text": "Look around. The walls are disappearing.",
+   "dir": "",
+   "start": 144.69,
+   "end": 147.88
+  },
+  {
+   "kind": "cue",
+   "scene": 2,
+   "type": "SFX",
+   "text": "Cozy room ambience widens into an immense, windy hillside. Dry grasses rasp against boots. Distant cattle low; a fire crackles far away. Cold air rushes through the vents.",
+   "t": 146.88
+  },
+  {
+   "kind": "cue",
+   "scene": 2,
+   "type": "Music",
+   "text": "Low frame drum, restrained strings, mysterious but not frightening.",
+   "t": 146.88
+  },
+  {
+   "kind": "line",
+   "scene": 2,
+   "speaker": "TIM",
+   "text": "Oh! That air is cold enough to make my teeth wear sweaters.",
+   "dir": "",
+   "start": 147.88,
+   "end": 150.71
+  },
+  {
+   "kind": "line",
+   "scene": 2,
+   "speaker": "MATT",
+   "text": "Autumn in an imagined Celtic settlement, many centuries ago. Watch the season turn.",
+   "dir": "",
+   "start": 152.95,
+   "end": 159.51
+  },
+  {
+   "kind": "line",
+   "scene": 2,
+   "speaker": "TIM",
+   "text": "I can smell smoke. And wet grass. And—what is that?",
+   "dir": "",
+   "start": 159.51,
+   "end": 164.29
+  },
+  {
+   "kind": "line",
+   "scene": 2,
+   "speaker": "MATT",
+   "text": "Livestock. The room's smell system is very enthusiastic today.",
+   "dir": "",
+   "start": 165.04,
+   "end": 168.59
+  },
+  {
+   "kind": "line",
+   "scene": 2,
+   "speaker": "TIM",
+   "text": "“Enthusiastic” is a very polite word for that.",
+   "dir": "",
+   "start": 168.59,
+   "end": 171.67
+  },
+  {
+   "kind": "line",
+   "scene": 2,
+   "speaker": "MATT",
+   "text": "Celtic peoples lived across large parts of Europe. They weren't one single nation with one identical set of customs. But in Ireland and other Celtic regions, a seasonal festival called **Samhain**—often pronounced “SOW-in” or “SAH-win,” depending on tradition—marked the transition toward winter.",
+   "dir": "",
+   "start": 171.67,
+   "end": 189.78
+  },
+  {
+   "kind": "line",
+   "scene": 2,
+   "speaker": "TIM",
+   "text": "Like a New Year's Eve for the changing seasons?",
+   "dir": "",
+   "start": 189.78,
+   "end": 192.72
+  },
+  {
+   "kind": "line",
+   "scene": 2,
+   "speaker": "MATT",
+   "text": "In some Celtic calendars, yes. Think about what winter meant before grocery stores and electric heaters. Families needed enough food, strong shelter, dry fuel, and help from one another.",
+   "dir": "",
+   "start": 192.72,
+   "end": 204.78
+  },
+  {
+   "kind": "cue",
+   "scene": 2,
+   "type": "SFX",
+   "text": "Heavy wooden gate creaks; footsteps crunch over gravel; a basket thumps down.",
+   "t": 204.78
+  },
+  {
+   "kind": "line",
+   "scene": 2,
+   "speaker": "TIM",
+   "text": "Those people sound busy.",
+   "dir": "Quietly.",
+   "start": 204.78,
+   "end": 206.49
+  },
+  {
+   "kind": "line",
+   "scene": 2,
+   "speaker": "MATT",
+   "text": "Harvest had real weight. If the crops failed, winter could be dangerous. Look at the piles of grain, the baskets, the smoke rising from homes.",
+   "dir": "",
+   "start": 206.49,
+   "end": 216.32
+  },
+  {
+   "kind": "line",
+   "scene": 2,
+   "speaker": "TIM",
+   "text": "I can almost feel the rough wool of those cloaks. And the cold creeping in around the doors.",
+   "dir": "",
+   "start": 216.97,
+   "end": 222.8
+  },
+  {
+   "kind": "line",
+   "scene": 2,
+   "speaker": "MATT",
+   "text": "There's more than weather in the old stories. Traditions associated with Samhain tell of the boundary between the living world and the otherworld becoming unusually close.",
+   "dir": "",
+   "start": 223.51,
+   "end": 234.61
+  },
+  {
+   "kind": "line",
+   "scene": 2,
+   "speaker": "TIM",
+   "text": "The otherworld? As in ghosts?",
+   "dir": "",
+   "start": 234.61,
+   "end": 236.56
+  },
+  {
+   "kind": "line",
+   "scene": 2,
+   "speaker": "MATT",
+   "text": "That's how some of the stories describe it. People told tales about spirits, wandering beings, and the dead. The important distinction is that these were **beliefs and stories**, not proof that spirits really crossed into a village.",
+   "dir": "",
+   "start": 236.56,
+   "end": 251.97
+  },
+  {
+   "kind": "cue",
+   "scene": 2,
+   "type": "SFX",
+   "text": "Distant bonfire grows louder; flames leap, sparks spit; wind bends around the fire.",
+   "t": 251.97
+  },
+  {
+   "kind": "line",
+   "scene": 2,
+   "speaker": "TIM",
+   "text": "That bonfire sounds enormous. Why so big?",
+   "dir": "",
+   "start": 251.97,
+   "end": 254.91
+  },
+  {
+   "kind": "line",
+   "scene": 2,
+   "speaker": "MATT",
+   "text": "Fire could bring light, warmth, gathering, and ritual meaning. Later accounts link Samhain with communal fires, divination, and efforts to protect households from unseen dangers.",
+   "dir": "",
+   "start": 254.91,
+   "end": 267.34
+  },
+  {
+   "kind": "line",
+   "scene": 2,
+   "speaker": "TIM",
+   "text": "People did all of that because they were afraid?",
+   "dir": "",
+   "start": 267.34,
+   "end": 270.76
+  },
+  {
+   "kind": "line",
+   "scene": 2,
+   "speaker": "MATT",
+   "text": "Sometimes fear, sometimes hope, sometimes a desire for protection or a good harvest. History rarely gives us a single motive for every person.",
+   "dir": "",
+   "start": 270.76,
+   "end": 280.72
+  },
+  {
+   "kind": "line",
+   "scene": 2,
+   "speaker": "TIM",
+   "text": "Is that someone wearing an animal hide?",
+   "dir": "Starts forward.",
+   "start": 280.72,
+   "end": 283.51
+  },
+  {
+   "kind": "line",
+   "scene": 2,
+   "speaker": "MATT",
+   "text": "Some accounts connect disguises and animal costumes with seasonal rituals. But scholars can't trace every modern Halloween costume directly to one ancient practice. The historical picture has gaps.",
+   "dir": "",
+   "start": 283.51,
+   "end": 296.21
+  },
+  {
+   "kind": "line",
+   "scene": 2,
+   "speaker": "TIM",
+   "text": "You mean no one left us a complete instruction manual called *How to Invent Halloween*?",
+   "dir": "",
+   "start": 296.8,
+   "end": 302.73
+  },
+  {
+   "kind": "line",
+   "scene": 2,
+   "speaker": "MATT",
+   "text": "Sadly. Page one would probably be covered in ashes.",
+   "dir": "",
+   "start": 302.73,
+   "end": 306.24
+  },
+  {
+   "kind": "cue",
+   "scene": 2,
+   "type": "SFX",
+   "text": "A strong gust, sudden flame ROAR. Tim yelps, jumps backward, and knocks a real pencil cup off a metal table. Pens scatter audibly across hard flooring.",
+   "t": 306.24
+  },
+  {
+   "kind": "line",
+   "scene": 2,
+   "speaker": "TIM",
+   "text": "Incoming fire dragon!",
+   "dir": "",
+   "start": 306.24,
+   "end": 307.72
+  },
+  {
+   "kind": "line",
+   "scene": 2,
+   "speaker": "MATT",
+   "text": "Incoming office supplies. The hill is projected. My pencil cup is not.",
+   "dir": "Laughing.",
+   "start": 308.93,
+   "end": 330.18
+  },
+  {
+   "kind": "cue",
+   "scene": 2,
+   "type": "SFX",
+   "text": "Brief return of the small room hum beneath the hillside wind. Matt stoops to collect pencils.",
+   "t": 330.18
+  },
+  {
+   "kind": "line",
+   "scene": 2,
+   "speaker": "TIM",
+   "text": "Have you ever stepped back from a movie because it felt too real? Now imagine the movie can blow cold air at your ankles. It gets you.",
+   "dir": "To listener.",
+   "start": 330.18,
+   "end": 330.68,
+   "interpolated": true
+  },
+  {
+   "kind": "line",
+   "scene": 2,
+   "speaker": "MATT",
+   "text": "And look at the lesson hidden in that surprise. Stories can stir very real feelings, even when we know they're stories.",
+   "dir": "",
+   "start": 330.18,
+   "end": 330.81
+  },
+  {
+   "kind": "line",
+   "scene": 2,
+   "speaker": "TIM",
+   "text": "Okay. But what does a harvest festival have to do with my friend's costume party?",
+   "dir": "",
+   "start": 330.81,
+   "end": 336.54
+  },
+  {
+   "kind": "line",
+   "scene": 2,
+   "speaker": "MATT",
+   "text": "Some customs developed, changed, mixed with other customs, or disappeared. We have to follow the evidence through a very long timeline, not draw a straight arrow wherever it's convenient.",
+   "dir": "",
+   "start": 337.3,
+   "end": 349.41
+  },
+  {
+   "kind": "line",
+   "scene": 2,
+   "speaker": "TIM",
+   "text": "Can we follow it somewhere warmer?",
+   "dir": "",
+   "start": 350.45,
+   "end": 352.87
+  },
+  {
+   "kind": "line",
+   "scene": 2,
+   "speaker": "MATT",
+   "text": "First one more detail. People sometimes describe Samhain as if every Celt spent October thirty-first performing the exact same ritual. That oversimplifies centuries of communities and traditions. What we can say is that the seasonal festival became an important part of the story of Halloween.",
+   "dir": "",
+   "start": 352.87,
+   "end": 372.7
+  },
+  {
+   "kind": "line",
+   "scene": 2,
+   "speaker": "TIM",
+   "text": "So the beginning isn't one perfectly documented event. It's a collection of history, traditions, and beliefs.",
+   "dir": "",
+   "start": 372.7,
+   "end": 379.68
+  },
+  {
+   "kind": "line",
+   "scene": 2,
+   "speaker": "MATT",
+   "text": "Exactly. And the fact that people once feared spirits matters when we ask what certain symbols meant to them.",
+   "dir": "",
+   "start": 379.68,
+   "end": 386.6
+  },
+  {
+   "kind": "line",
+   "scene": 2,
+   "speaker": "TIM",
+   "text": "I have learned two things: research matters, and I need a winter coat.",
+   "dir": "Rubbing his arms.",
+   "start": 386.6,
+   "end": 392.52
+  },
+  {
+   "kind": "line",
+   "scene": 2,
+   "speaker": "MATT",
+   "text": "Thermal setting, please.",
+   "dir": "",
+   "start": 392.52,
+   "end": 394.36
+  },
+  {
+   "kind": "cue",
+   "scene": 2,
+   "type": "SFX",
+   "text": "Rotary dial clicks. The wind fades. A projected bonfire collapses into a tiny speaker hiss. Room clock returns.",
+   "t": 394.36
+  },
+  {
+   "kind": "line",
+   "scene": 2,
+   "speaker": "TIM",
+   "text": "Much better.",
+   "dir": "",
+   "start": 394.36,
+   "end": 395.36
+  },
+  {
+   "kind": "line",
+   "scene": 2,
+   "speaker": "MATT",
+   "text": "Next, we'll jump ahead to the world you recognize—then investigate the historical bridge connecting it all.",
+   "dir": "",
+   "start": 395.36,
+   "end": 403.71
+  },
+  {
+   "kind": "cue",
+   "scene": 3,
+   "type": "SFX",
+   "text": "Digital timeline swish. A city street emerges: distant car engines, children laughing indistinctly, footsteps in crisp leaves, doorbells, wrappers crinkling, party music leaking through a window.",
+   "t": 404.24
+  },
+  {
+   "kind": "cue",
+   "scene": 3,
+   "type": "Music",
+   "text": "Playful pizzicato strings with a modern beat.",
+   "t": 404.24
+  },
+  {
+   "kind": "line",
+   "scene": 3,
+   "speaker": "TIM",
+   "text": "Ahh! Streetlights! Sidewalks! Store-bought costumes! Civilization!",
+   "dir": "",
+   "start": 405.24,
+   "end": 409.66
+  },
+  {
+   "kind": "line",
+   "scene": 3,
+   "speaker": "MATT",
+   "text": "Welcome to a modern Halloween evening.",
+   "dir": "",
+   "start": 409.66,
+   "end": 413.1
+  },
+  {
+   "kind": "line",
+   "scene": 3,
+   "speaker": "TIM",
+   "text": "Look, little superheroes, astronauts, and a kid dressed as a giant slice of pizza.",
+   "dir": "",
+   "start": 413.38,
+   "end": 419.45
+  },
+  {
+   "kind": "line",
+   "scene": 3,
+   "speaker": "MATT",
+   "text": "The costume tradition has changed considerably. Modern dress-up often has very little to do with ancient ritual, even though some of the holiday's older imagery survives.",
+   "dir": "",
+   "start": 419.78,
+   "end": 430.21
+  },
+  {
+   "kind": "line",
+   "scene": 3,
+   "speaker": "TIM",
+   "text": "And that's what I mean! That pizza isn't honoring some ancient spirit. It's honoring pepperoni.",
+   "dir": "",
+   "start": 430.56,
+   "end": 437.52
+  },
+  {
+   "kind": "line",
+   "scene": 3,
+   "speaker": "MATT",
+   "text": "Fair point. Present-day intention matters. The same object can mean different things to different people. But historical roots, current meaning, and personal conscience are three different questions.",
+   "dir": "",
+   "start": 437.52,
+   "end": 449.18
+  },
+  {
+   "kind": "line",
+   "scene": 3,
+   "speaker": "TIM",
+   "text": "So I can say, “I'm here for the neighbors and the candy,” and you can still say, “I don't participate because the celebration carries meanings I'm uncomfortable with.”",
+   "dir": "",
+   "start": 449.78,
+   "end": 458.99
+  },
+  {
+   "kind": "line",
+   "scene": 3,
+   "speaker": "MATT",
+   "text": "Yes. We should understand each other accurately before debating.",
+   "dir": "",
+   "start": 459.29,
+   "end": 463.01
+  },
+  {
+   "kind": "cue",
+   "scene": 3,
+   "type": "SFX",
+   "text": "A doorbell rings. Tinny sound of a bag of sweets opening.",
+   "t": 463.01
+  },
+  {
+   "kind": "line",
+   "scene": 3,
+   "speaker": "TIM",
+   "text": "Trick-or-treating. That's the main event for a lot of families.",
+   "dir": "",
+   "start": 463.01,
+   "end": 466.68
+  },
+  {
+   "kind": "line",
+   "scene": 3,
+   "speaker": "MATT",
+   "text": "Its history is more complicated than a single ancient origin story. In parts of medieval and later Europe, people went door to door for food or cakes, sometimes offering prayers for the dead. Other traditions involved disguising, songs, performances, or mischievous requests. Modern American trick-or-treating took shape much later, with several possible influences.",
+   "dir": "",
+   "start": 467.28,
+   "end": 489.44
+  },
+  {
+   "kind": "line",
+   "scene": 3,
+   "speaker": "TIM",
+   "text": "So the claim “children today do exactly what ancient people did for spirits” would be too simple?",
+   "dir": "",
+   "start": 490.13,
+   "end": 496.56
+  },
+  {
+   "kind": "line",
+   "scene": 3,
+   "speaker": "MATT",
+   "text": "Much too simple. It's worth considering possible connections, but not pretending every step is certain.",
+   "dir": "",
+   "start": 496.56,
+   "end": 503.84
+  },
+  {
+   "kind": "cue",
+   "scene": 3,
+   "type": "SFX",
+   "text": "A pumpkin rolls gently across the floor. Hollow tap-tap-tap.",
+   "t": 503.84
+  },
+  {
+   "kind": "line",
+   "scene": 3,
+   "speaker": "TIM",
+   "text": "Now, the glowing pumpkins! Tell me they were invented by someone who loved vegetable art.",
+   "dir": "",
+   "start": 503.84,
+   "end": 509.87
+  },
+  {
+   "kind": "line",
+   "scene": 3,
+   "speaker": "MATT",
+   "text": "Carved lanterns were known in parts of Ireland and Britain, often made from turnips or other root vegetables. The later Irish folktale of “Stingy Jack” became associated with wandering lights and the jack-o'-lantern. In America, pumpkins were plentiful and much easier to carve.",
+   "dir": "",
+   "start": 509.87,
+   "end": 527.3
+  },
+  {
+   "kind": "line",
+   "scene": 3,
+   "speaker": "TIM",
+   "text": "You mean instead of carving this rock-hard vegetable, someone discovered a giant orange one?",
+   "dir": "Lifts a projected enormous turnip with effort, exaggerated.",
+   "start": 527.3,
+   "end": 533.22
+  },
+  {
+   "kind": "line",
+   "scene": 3,
+   "speaker": "MATT",
+   "text": "More or less.",
+   "dir": "",
+   "start": 533.22,
+   "end": 534.12
+  },
+  {
+   "kind": "line",
+   "scene": 3,
+   "speaker": "TIM",
+   "text": "Progress! Finally, something in history designed for my wrists.",
+   "dir": "",
+   "start": 534.79,
+   "end": 539.56
+  },
+  {
+   "kind": "line",
+   "scene": 3,
+   "speaker": "MATT",
+   "text": "If you've ever scooped out pumpkin seeds, imagine trying to carve a face into a turnip with older tools. Our ancestors were patient people.",
+   "dir": "To listener.",
+   "start": 539.88,
+   "end": 548.85
+  },
+  {
+   "kind": "cue",
+   "scene": 3,
+   "type": "SFX",
+   "text": "A splash, then two water drops.",
+   "t": 548.99
+  },
+  {
+   "kind": "line",
+   "scene": 3,
+   "speaker": "TIM",
+   "text": "And bobbing for apples? Why did somebody decide a party needed a barrel of wet fruit?",
+   "dir": "",
+   "start": 549.12,
+   "end": 554.48
+  },
+  {
+   "kind": "line",
+   "scene": 3,
+   "speaker": "MATT",
+   "text": "Apples were linked with autumn customs and with divination games. Some popular histories connect the practice to Roman traditions surrounding Pomona, a goddess associated with fruit trees. That particular direct connection is often repeated, but it's not conclusively documented.",
+   "dir": "",
+   "start": 554.48,
+   "end": 572.02
+  },
+  {
+   "kind": "line",
+   "scene": 3,
+   "speaker": "TIM",
+   "text": "So the apples have a history too—and the old meaning might not match the modern game.",
+   "dir": "",
+   "start": 572.02,
+   "end": 577.49
+  },
+  {
+   "kind": "line",
+   "scene": 3,
+   "speaker": "MATT",
+   "text": "Correct.",
+   "dir": "",
+   "start": 577.49,
+   "end": 578.06
+  },
+  {
+   "kind": "line",
+   "scene": 3,
+   "speaker": "TIM",
+   "text": "There's a difference between understanding a custom and assuming everyone participating believes what someone long ago believed.",
+   "dir": "Thoughtful.",
+   "start": 578.33,
+   "end": 586.95
+  },
+  {
+   "kind": "line",
+   "scene": 3,
+   "speaker": "MATT",
+   "text": "Exactly. And there's also a difference between not intending something harmful and never thinking about what a practice celebrates.",
+   "dir": "",
+   "start": 586.95,
+   "end": 594.77
+  },
+  {
+   "kind": "cue",
+   "scene": 3,
+   "type": "SFX",
+   "text": "A distant Halloween party bass line thickens, then cuts back.",
+   "t": 594.96
+  },
+  {
+   "kind": "line",
+   "scene": 3,
+   "speaker": "TIM",
+   "text": "You know, in my family it was always just one evening of costumes and friends. Nobody explained any of this.",
+   "dir": "",
+   "start": 595.16,
+   "end": 602.21
+  },
+  {
+   "kind": "line",
+   "scene": 3,
+   "speaker": "MATT",
+   "text": "Lots of families have that experience. I'm not calling them wicked. I'm showing you why someone else might reach a different conclusion.",
+   "dir": "",
+   "start": 602.48,
+   "end": 610.81
+  },
+  {
+   "kind": "line",
+   "scene": 3,
+   "speaker": "TIM",
+   "text": "Then here's my bigger question: why does a Celtic autumn festival have a name that sounds Christian? “Hallow” means holy, doesn't it?",
+   "dir": "",
+   "start": 610.81,
+   "end": 618.84
+  },
+  {
+   "kind": "line",
+   "scene": 3,
+   "speaker": "MATT",
+   "text": "That's the bridge we've been looking for.",
+   "dir": "",
+   "start": 618.84,
+   "end": 621.67
+  },
+  {
+   "kind": "cue",
+   "scene": 3,
+   "type": "SFX",
+   "text": "A heavy chime reverberates across the street; city sound dissolves into ticking lab clock.",
+   "t": 621.67
+  },
+  {
+   "kind": "line",
+   "scene": 3,
+   "speaker": "TIM",
+   "text": "Oh, look. We're back at the room again.",
+   "dir": "",
+   "start": 621.67,
+   "end": 624.3
+  },
+  {
+   "kind": "line",
+   "scene": 3,
+   "speaker": "MATT",
+   "text": "And you've just leaned on the simulation console.",
+   "dir": "",
+   "start": 624.3,
+   "end": 627.68
+  },
+  {
+   "kind": "cue",
+   "scene": 3,
+   "type": "SFX",
+   "text": "Warning chirp. A chair wheels backward.",
+   "t": 627.68
+  },
+  {
+   "kind": "line",
+   "scene": 3,
+   "speaker": "TIM",
+   "text": "It moved!",
+   "dir": "",
+   "start": 627.68,
+   "end": 628.35
+  },
+  {
+   "kind": "line",
+   "scene": 3,
+   "speaker": "MATT",
+   "text": "It has wheels, Tim.",
+   "dir": "",
+   "start": 628.62,
+   "end": 630.34
+  },
+  {
+   "kind": "line",
+   "scene": 3,
+   "speaker": "TIM",
+   "text": "I will never trust a chair again.",
+   "dir": "",
+   "start": 631.18,
+   "end": 633.61
+  },
+  {
+   "kind": "cue",
+   "scene": 4,
+   "type": "Music",
+   "text": "Low, searching strings; the feeling of a puzzle being assembled.",
+   "t": 632.61
+  },
+  {
+   "kind": "line",
+   "scene": 4,
+   "speaker": "MATT",
+   "text": "Computer timeline. Ancient Rome—then the development of All Saints' Day.",
+   "dir": "",
+   "start": 633.61,
+   "end": 638.83
+  },
+  {
+   "kind": "cue",
+   "scene": 4,
+   "type": "SFX",
+   "text": "Wind passes through stone archways. Leather sandals scrape flagstones. A spacious courtyard reverberates. Distant crowd is indistinct.",
+   "t": 639.33
+  },
+  {
+   "kind": "line",
+   "scene": 4,
+   "speaker": "TIM",
+   "text": "Warm stone. Olive trees. A fountain! This is definitely an improvement over the freezing hill.",
+   "dir": "",
+   "start": 639.82,
+   "end": 648.11
+  },
+  {
+   "kind": "line",
+   "scene": 4,
+   "speaker": "MATT",
+   "text": "Roman rule touched many Celtic lands. Over centuries, people carried customs across borders. Traditions mixed, sometimes freely, sometimes under political and religious pressure.",
+   "dir": "",
+   "start": 648.11,
+   "end": 659.65
+  },
+  {
+   "kind": "line",
+   "scene": 4,
+   "speaker": "TIM",
+   "text": "Wasn't there a Roman festival for the dead?",
+   "dir": "",
+   "start": 660.62,
+   "end": 663.42
+  },
+  {
+   "kind": "line",
+   "scene": 4,
+   "speaker": "MATT",
+   "text": "Feralia was a Roman commemoration of the dead. And Pomona was a Roman figure connected with orchards and fruit. Popular accounts sometimes present those as precise ingredients that were poured into Samhain. But historians cannot prove every proposed merger happened in that neat way.",
+   "dir": "",
+   "start": 663.92,
+   "end": 681.6
+  },
+  {
+   "kind": "line",
+   "scene": 4,
+   "speaker": "TIM",
+   "text": "You keep saying “cannot prove.” You really don't want to overstate anything.",
+   "dir": "",
+   "start": 682.32,
+   "end": 687.32
+  },
+  {
+   "kind": "line",
+   "scene": 4,
+   "speaker": "MATT",
+   "text": "If we want to teach truth, we should care when the sources are uncertain. An inaccurate story doesn't become accurate because it supports an opinion we already hold.",
+   "dir": "",
+   "start": 687.32,
+   "end": 698.56
+  },
+  {
+   "kind": "line",
+   "scene": 4,
+   "speaker": "TIM",
+   "text": "That sounds suspiciously like something I should remember.",
+   "dir": "",
+   "start": 698.56,
+   "end": 702.31
+  },
+  {
+   "kind": "line",
+   "scene": 4,
+   "speaker": "MATT",
+   "text": "Please do. Now come forward several centuries.",
+   "dir": "",
+   "start": 702.31,
+   "end": 705.57
+  },
+  {
+   "kind": "cue",
+   "scene": 4,
+   "type": "SFX",
+   "text": "Bronze bell toll. Roman courtyard quiets into a huge church interior. Footsteps ring under a high vault. A wooden door shuts, echoing for several seconds.",
+   "t": 705.57
+  },
+  {
+   "kind": "line",
+   "scene": 4,
+   "speaker": "TIM",
+   "text": "Whoa. The room sounds enormous. I can hear my own footsteps bouncing back from the ceiling.",
+   "dir": "",
+   "start": 705.57,
+   "end": 711.41
+  },
+  {
+   "kind": "line",
+   "scene": 4,
+   "speaker": "MATT",
+   "text": "Christianity spread throughout the Roman world. Christian communities remembered people who had died for their faith. Over time, observances honoring martyrs and saints developed.",
+   "dir": "",
+   "start": 711.41,
+   "end": 722.77
+  },
+  {
+   "kind": "line",
+   "scene": 4,
+   "speaker": "TIM",
+   "text": "Was there one All Saints' Day from the beginning?",
+   "dir": "",
+   "start": 723.12,
+   "end": 726.09
+  },
+  {
+   "kind": "line",
+   "scene": 4,
+   "speaker": "MATT",
+   "text": "Not one universal date. Different communities observed remembrances at different times. In Rome, Pope Boniface IV dedicated the Pantheon to Mary and Christian martyrs in 609 or 610, associated with a May observance. Later, in the eighth century, Pope Gregory III established a November first observance connected with a chapel at Saint Peter's. The November date spread more widely under Gregory IV in the ninth century.",
+   "dir": "",
+   "start": 726.09,
+   "end": 752.25
+  },
+  {
+   "kind": "line",
+   "scene": 4,
+   "speaker": "TIM",
+   "text": "So the date changed over time. But did the church pick November first specifically to replace Samhain?",
+   "dir": "",
+   "start": 752.84,
+   "end": 759.0
+  },
+  {
+   "kind": "line",
+   "scene": 4,
+   "speaker": "MATT",
+   "text": "Some historians emphasize that Christians tried to replace or redirect older festivals. Others caution that the exact reasons for the date are not fully established. We know Christian and pre-Christian practices eventually influenced each other. We shouldn't claim to overhear a private meeting from thirteen hundred years ago.",
+   "dir": "",
+   "start": 760.04,
+   "end": 778.65
+  },
+  {
+   "kind": "line",
+   "scene": 4,
+   "speaker": "TIM",
+   "text": "Hello, mysterious church calendar committee!",
+   "dir": "Calls upward into the echo.",
+   "start": 779.56,
+   "end": 782.7
+  },
+  {
+   "kind": "cue",
+   "scene": 4,
+   "type": "SFX",
+   "text": "His own voice echoes, then a real room intercom crackles.",
+   "t": 782.7
+  },
+  {
+   "kind": "line",
+   "scene": 4,
+   "speaker": "MATT",
+   "text": "The mysterious committee has asked us to lower our volume.",
+   "dir": "Dryly.",
+   "start": 782.7,
+   "end": 786.82
+  },
+  {
+   "kind": "line",
+   "scene": 4,
+   "speaker": "TIM",
+   "text": "Wait, that was your intercom. I can still hear the laboratory fan under the church bells.",
+   "dir": "",
+   "start": 786.82,
+   "end": 793.59
+  },
+  {
+   "kind": "line",
+   "scene": 4,
+   "speaker": "MATT",
+   "text": "Good ear.",
+   "dir": "",
+   "start": 793.59,
+   "end": 793.99
+  },
+  {
+   "kind": "line",
+   "scene": 4,
+   "speaker": "TIM",
+   "text": "And what about All Souls' Day?",
+   "dir": "",
+   "start": 794.35,
+   "end": 796.42
+  },
+  {
+   "kind": "line",
+   "scene": 4,
+   "speaker": "MATT",
+   "text": "A November second observance for remembering the departed spread in medieval Western Christianity, especially through the work of Odilo of Cluny around the end of the tenth century. So we have a three-day cluster: October thirty-first, the eve of All Saints; November first, All Saints; and November second, All Souls.",
+   "dir": "",
+   "start": 797.06,
+   "end": 818.08
+  },
+  {
+   "kind": "line",
+   "scene": 4,
+   "speaker": "TIM",
+   "text": "Now we're getting close to the word “Halloween.”",
+   "dir": "",
+   "start": 818.08,
+   "end": 818.62,
+   "interpolated": true
+  },
+  {
+   "kind": "line",
+   "scene": 4,
+   "speaker": "MATT",
+   "text": "“Hallow” is an old English word associated with a holy person or saint. “All Hallows' Eve” meant the evening before All Saints' Day. Over time, the phrase was shortened into “Halloween.” The name reflects the Christian calendar, even while the popular customs absorbed influences from different sources.",
+   "dir": "",
+   "start": 818.62,
+   "end": 840.09
+  },
+  {
+   "kind": "line",
+   "scene": 4,
+   "speaker": "TIM",
+   "text": "So it isn't accurate to say Halloween has only a pagan history—or only a Christian history.",
+   "dir": "",
+   "start": 840.09,
+   "end": 846.28
+  },
+  {
+   "kind": "line",
+   "scene": 4,
+   "speaker": "MATT",
+   "text": "Exactly. Its story includes both and much more. And here's where our convictions come into play. Even if a tradition changes, should believers adopt or reuse something associated with worship practices they reject?",
+   "dir": "",
+   "start": 846.28,
+   "end": 859.28
+  },
+  {
+   "kind": "line",
+   "scene": 4,
+   "speaker": "TIM",
+   "text": "That seems like the question you've been trying to get me to ask.",
+   "dir": "",
+   "start": 859.89,
+   "end": 864.15
+  },
+  {
+   "kind": "line",
+   "scene": 4,
+   "speaker": "MATT",
+   "text": "Guilty.",
+   "dir": "",
+   "start": 864.15,
+   "end": 864.67
+  },
+  {
+   "kind": "cue",
+   "scene": 4,
+   "type": "SFX",
+   "text": "Distant medieval street: shoes on cobblestones, a basket of baked goods set on a ledge, cloth rustles.",
+   "t": 865.0
+  },
+  {
+   "kind": "line",
+   "scene": 4,
+   "speaker": "TIM",
+   "text": "What's that smell? Bread? Honey? Spices?",
+   "dir": "",
+   "start": 865.34,
+   "end": 868.46
+  },
+  {
+   "kind": "line",
+   "scene": 4,
+   "speaker": "MATT",
+   "text": "Our simulation is showing one of the later door-to-door customs often called *souling*. In some regions, people received soul cakes in exchange for prayers for departed souls.",
+   "dir": "",
+   "start": 868.46,
+   "end": 881.4
+  },
+  {
+   "kind": "line",
+   "scene": 4,
+   "speaker": "TIM",
+   "text": "So there's a religious belief involved, not just a snack.",
+   "dir": "",
+   "start": 881.4,
+   "end": 885.16
+  },
+  {
+   "kind": "line",
+   "scene": 4,
+   "speaker": "MATT",
+   "text": "In that tradition, yes. It relates to theological ideas about praying for the dead. Christians do not all understand those doctrines the same way. Catholic Christians distinguish praying *to* God for the departed from asking saints in heaven to intercede; many Protestant Christians reject the practice of requesting saints' intercession.",
+   "dir": "",
+   "start": 885.16,
+   "end": 903.45
+  },
+  {
+   "kind": "line",
+   "scene": 4,
+   "speaker": "TIM",
+   "text": "And you reject it?",
+   "dir": "",
+   "start": 904.37,
+   "end": 905.34
+  },
+  {
+   "kind": "line",
+   "scene": 4,
+   "speaker": "MATT",
+   "text": "I believe Scripture directs prayer to God and identifies Jesus Christ as the one mediator between God and humanity. First Timothy 2:5 is central to that conviction.",
+   "dir": "",
+   "start": 905.96,
+   "end": 917.61
+  },
+  {
+   "kind": "line",
+   "scene": 4,
+   "speaker": "TIM",
+   "text": "Is that the same thing as trying to summon a dead person?",
+   "dir": "",
+   "start": 917.88,
+   "end": 921.94
+  },
+  {
+   "kind": "line",
+   "scene": 4,
+   "speaker": "MATT",
+   "text": "They are not identical claims. Deuteronomy 18 warns against consulting the dead and occult divination; Catholics would dispute the idea that their prayers amount to necromancy. I don't want us to misrepresent what other Christians believe, even when I disagree with them.",
+   "dir": "",
+   "start": 921.94,
+   "end": 938.12
+  },
+  {
+   "kind": "line",
+   "scene": 4,
+   "speaker": "TIM",
+   "text": "That's fair. We can't teach honesty and then put words in somebody's mouth.",
+   "dir": "",
+   "start": 938.12,
+   "end": 942.04
+  },
+  {
+   "kind": "cue",
+   "scene": 4,
+   "type": "SFX",
+   "text": "Bell fades into crackling fire, then quiet.",
+   "t": 942.21
+  },
+  {
+   "kind": "line",
+   "scene": 4,
+   "speaker": "MATT",
+   "text": "Now consider another image from the biblical story: Israel fashioning a golden calf while Moses was on the mountain, in Exodus 32.",
+   "dir": "",
+   "start": 942.39,
+   "end": 950.78
+  },
+  {
+   "kind": "cue",
+   "scene": 4,
+   "type": "SFX",
+   "text": "A low metallic clang and then silence. No dramatic reenactment of violence.",
+   "t": 950.78
+  },
+  {
+   "kind": "line",
+   "scene": 4,
+   "speaker": "TIM",
+   "text": "They tried to give worship a shape God hadn't told them to use.",
+   "dir": "",
+   "start": 950.78,
+   "end": 955.05
+  },
+  {
+   "kind": "line",
+   "scene": 4,
+   "speaker": "MATT",
+   "text": "Yes. My concern isn't that every autumn game equals the golden calf. That's a far bigger claim. My concern is the principle: should we decide how to honor God simply by taking something we're already doing and giving it a religious label? Or should Scripture guide the practice from the beginning?",
+   "dir": "",
+   "start": 955.05,
+   "end": 972.35
+  },
+  {
+   "kind": "line",
+   "scene": 4,
+   "speaker": "TIM",
+   "text": "But some people host a neighborhood gathering to share food, love their neighbors, and talk about Jesus. They'd say they're doing good, not worshipping darkness.",
+   "dir": "",
+   "start": 972.94,
+   "end": 981.32
+  },
+  {
+   "kind": "line",
+   "scene": 4,
+   "speaker": "MATT",
+   "text": "And those good intentions should be recognized. The question is whether a particular event, name, symbol, or practice is consistent with one's convictions. We need to think carefully rather than condemn people by association.",
+   "dir": "",
+   "start": 981.32,
+   "end": 995.38
+  },
+  {
+   "kind": "line",
+   "scene": 4,
+   "speaker": "TIM",
+   "text": "This is harder than deciding whether to eat one brownie or three.",
+   "dir": "",
+   "start": 996.23,
+   "end": 1000.13
+  },
+  {
+   "kind": "line",
+   "scene": 4,
+   "speaker": "MATT",
+   "text": "Much harder. Though I have concerns about your brownie decisions too.",
+   "dir": "",
+   "start": 1000.13,
+   "end": 1004.27
+  },
+  {
+   "kind": "line",
+   "scene": 4,
+   "speaker": "TIM",
+   "text": "Unrelated. Completely unrelated.",
+   "dir": "",
+   "start": 1004.27,
+   "end": 1006.22
+  },
+  {
+   "kind": "cue",
+   "scene": 4,
+   "type": "SFX",
+   "text": "A blast of warm ventilation air. A real file cabinet suddenly rattles as Tim backs into it.",
+   "t": 1006.22
+  },
+  {
+   "kind": "line",
+   "scene": 4,
+   "speaker": "TIM",
+   "text": "Ouch! Ancient Rome has filing cabinets?",
+   "dir": "",
+   "start": 1006.22,
+   "end": 1009.61
+  },
+  {
+   "kind": "line",
+   "scene": 4,
+   "speaker": "MATT",
+   "text": "Only in our research room.",
+   "dir": "",
+   "start": 1009.61,
+   "end": 1011.33
+  },
+  {
+   "kind": "line",
+   "scene": 4,
+   "speaker": "TIM",
+   "text": "Remember what Matt said: the scenery can change, but the room doesn't go anywhere. History is also like that in a way. We can visit the past with our minds—but we still have to decide how to live today.",
+   "dir": "To listener.",
+   "start": 1012.17,
+   "end": 1024.06
+  },
+  {
+   "kind": "cue",
+   "scene": 5,
+   "type": "SFX",
+   "text": "Simulation winds down. The high church reverberation contracts to a warm, quiet room. Clock and soft fan return. Two desk chairs scrape closer together.",
+   "t": 1023.56
+  },
+  {
+   "kind": "cue",
+   "scene": 5,
+   "type": "Music",
+   "text": "Gentle piano and muted strings; thoughtful, warm.",
+   "t": 1023.56
+  },
+  {
+   "kind": "line",
+   "scene": 5,
+   "speaker": "TIM",
+   "text": "All right. We've seen the harvest festival, the beliefs about spirits, the modern costumes, the church observances, and the different explanations people give. So what does Scripture actually say about celebrating Halloween?",
+   "dir": "",
+   "start": 1024.56,
+   "end": 1036.9
+  },
+  {
+   "kind": "line",
+   "scene": 5,
+   "speaker": "MATT",
+   "text": "It does not name Halloween. That means we need to apply biblical principles carefully, without pretending there's a verse that says the word itself.",
+   "dir": "",
+   "start": 1036.9,
+   "end": 1044.77
+  },
+  {
+   "kind": "line",
+   "scene": 5,
+   "speaker": "TIM",
+   "text": "What about Psalm 24? “The earth is the Lord's.” Some people say that means no day belongs to evil.",
+   "dir": "",
+   "start": 1045.93,
+   "end": 1052.24
+  },
+  {
+   "kind": "line",
+   "scene": 5,
+   "speaker": "MATT",
+   "text": "I agree that creation belongs to God. I don't believe any date on the calendar is owned by the kingdom of darkness. But that doesn't mean every use of God's creation honors Him. Time belongs to God; what we do with time still matters.",
+   "dir": "",
+   "start": 1052.24,
+   "end": 1066.27
+  },
+  {
+   "kind": "line",
+   "scene": 5,
+   "speaker": "TIM",
+   "text": "So you don't say October thirty-first is an evil day.",
+   "dir": "",
+   "start": 1067.0,
+   "end": 1070.42
+  },
+  {
+   "kind": "line",
+   "scene": 5,
+   "speaker": "MATT",
+   "text": "No. I say people can use any day for good or evil, light or darkness. We should never glorify evil—not on October thirty-first, not on a birthday, not on an ordinary Tuesday.",
+   "dir": "",
+   "start": 1070.42,
+   "end": 1082.92
+  },
+  {
+   "kind": "line",
+   "scene": 5,
+   "speaker": "TIM",
+   "text": "How would you decide whether a celebration crosses that line?",
+   "dir": "",
+   "start": 1082.92,
+   "end": 1087.53
+  },
+  {
+   "kind": "line",
+   "scene": 5,
+   "speaker": "MATT",
+   "text": "First, ask what it celebrates. Second, ask what it asks us to imitate or admire. Third, ask what we teach our children through participating. And fourth, ask whether our choice agrees with the Scriptures we profess to follow.",
+   "dir": "",
+   "start": 1087.53,
+   "end": 1103.56
+  },
+  {
+   "kind": "line",
+   "scene": 5,
+   "speaker": "TIM",
+   "text": "Okay. Give me some passages.",
+   "dir": "",
+   "start": 1103.56,
+   "end": 1105.27
+  },
+  {
+   "kind": "line",
+   "scene": 5,
+   "speaker": "MATT",
+   "text": "Jeremiah 10:2 warns God's people against learning the ways of the nations in the sense of adopting forbidden religious practices. Leviticus 19:26 and Deuteronomy 18:10–12 caution against divination and occult practices. Those are serious warnings—but we must apply them to actual practices, not assume every person wearing a costume is practicing divination.",
+   "dir": "",
+   "start": 1105.62,
+   "end": 1129.28
+  },
+  {
+   "kind": "line",
+   "scene": 5,
+   "speaker": "TIM",
+   "text": "Hebrews 9:27? You mentioned that earlier when talking about the dead.",
+   "dir": "",
+   "start": 1129.28,
+   "end": 1133.91
+  },
+  {
+   "kind": "line",
+   "scene": 5,
+   "speaker": "MATT",
+   "text": "It teaches that human beings face death and judgment. Alongside First Timothy 2:5, it's among the passages that shape my understanding of death, mediation, and prayer. Psalm 115:17 is another passage often considered in discussions of death and praise. We need to read each in its full context.",
+   "dir": "",
+   "start": 1133.91,
+   "end": 1153.91
+  },
+  {
+   "kind": "line",
+   "scene": 5,
+   "speaker": "TIM",
+   "text": "And Isaiah 56?",
+   "dir": "",
+   "start": 1154.37,
+   "end": 1155.14
+  },
+  {
+   "kind": "line",
+   "scene": 5,
+   "speaker": "MATT",
+   "text": "Isaiah 56:2–7 speaks of honoring the Sabbath and holding fast to God's covenant. In Leviticus 23, Scripture sets out appointed festivals for Israel—Passover, Unleavened Bread, Firstfruits, Weeks or Pentecost, Trumpets, the Day of Atonement, and Booths or Tabernacles.",
+   "dir": "",
+   "start": 1155.14,
+   "end": 1175.29
+  },
+  {
+   "kind": "line",
+   "scene": 5,
+   "speaker": "TIM",
+   "text": "Are you saying all Christians have to observe every one in precisely the same way?",
+   "dir": "",
+   "start": 1177.01,
+   "end": 1181.82
+  },
+  {
+   "kind": "line",
+   "scene": 5,
+   "speaker": "MATT",
+   "text": "Christians interpret the ongoing obligations of those observances differently. What I want you to see is the distinction between an observance explicitly described in Scripture and a later cultural celebration. They are not automatically the same thing simply because someone calls both holy.",
+   "dir": "",
+   "start": 1181.82,
+   "end": 1200.25
+  },
+  {
+   "kind": "line",
+   "scene": 5,
+   "speaker": "TIM",
+   "text": "That makes sense.",
+   "dir": "Quiet.",
+   "start": 1200.25,
+   "end": 1201.33
+  },
+  {
+   "kind": "line",
+   "scene": 5,
+   "speaker": "MATT",
+   "text": "And there's another passage worth discussing: Romans 14. It tells believers not to despise one another when they differ about certain days and matters of conscience. It also stresses acting in faith and honoring the Lord.",
+   "dir": "",
+   "start": 1201.33,
+   "end": 1215.22
+  },
+  {
+   "kind": "line",
+   "scene": 5,
+   "speaker": "TIM",
+   "text": "So don't shame other people, but don't ignore your own convictions either.",
+   "dir": "",
+   "start": 1216.29,
+   "end": 1220.17
+  },
+  {
+   "kind": "line",
+   "scene": 5,
+   "speaker": "MATT",
+   "text": "Yes. And don't use personal freedom as an excuse to celebrate cruelty, fear, or occult practices. We can disagree about cultural activities while agreeing that we should pursue what is good.",
+   "dir": "",
+   "start": 1221.09,
+   "end": 1233.61
+  },
+  {
+   "kind": "cue",
+   "scene": 5,
+   "type": "SFX",
+   "text": "Matt gently sets an old paper Bible on the desk. Pages turn.",
+   "t": 1234.03
+  },
+  {
+   "kind": "line",
+   "scene": 5,
+   "speaker": "TIM",
+   "text": "I kept thinking you were about to tell me everyone who attends a Halloween party is doing something evil.",
+   "dir": "Slowly.",
+   "start": 1234.45,
+   "end": 1240.19
+  },
+  {
+   "kind": "line",
+   "scene": 5,
+   "speaker": "MATT",
+   "text": "That would be an unfair judgment. I can explain why I don't participate and ask good questions without claiming to know another person's heart.",
+   "dir": "",
+   "start": 1240.19,
+   "end": 1249.5
+  },
+  {
+   "kind": "line",
+   "scene": 5,
+   "speaker": "TIM",
+   "text": "But you still think compromise is dangerous.",
+   "dir": "",
+   "start": 1249.5,
+   "end": 1252.45
+  },
+  {
+   "kind": "line",
+   "scene": 5,
+   "speaker": "MATT",
+   "text": "Absolutely. Compromise can mean weakening a conviction to make something easier or more popular. Yet not every change of custom is moral compromise. We have to ask: *Which conviction? Which practice? What is being surrendered?*",
+   "dir": "",
+   "start": 1252.45,
+   "end": 1267.42
+  },
+  {
+   "kind": "line",
+   "scene": 5,
+   "speaker": "TIM",
+   "text": "And if I tell my children something stands for darkness, then celebrate it because everyone else does, my actions might teach something different from my words.",
+   "dir": "",
+   "start": 1267.42,
+   "end": 1278.15
+  },
+  {
+   "kind": "line",
+   "scene": 5,
+   "speaker": "MATT",
+   "text": "Exactly. Children learn from what we choose, not only from what we say.",
+   "dir": "",
+   "start": 1279.02,
+   "end": 1284.04
+  },
+  {
+   "kind": "line",
+   "scene": 5,
+   "speaker": "TIM",
+   "text": "That's inconvenient. I was hoping children learned only from the really inspiring speeches.",
+   "dir": "Half-laugh.",
+   "start": 1284.04,
+   "end": 1290.49
+  },
+  {
+   "kind": "line",
+   "scene": 5,
+   "speaker": "MATT",
+   "text": "If that were true, parents would have a much easier job.",
+   "dir": "",
+   "start": 1290.49,
+   "end": 1294.07
+  },
+  {
+   "kind": "cue",
+   "scene": 5,
+   "type": "SFX",
+   "text": "Tim picks up his party invitation. Paper crinkles softly.",
+   "t": 1294.24
+  },
+  {
+   "kind": "line",
+   "scene": 5,
+   "speaker": "TIM",
+   "text": "So what if I decide not to attend? I can still love the neighbors who do.",
+   "dir": "",
+   "start": 1294.4,
+   "end": 1299.18
+  },
+  {
+   "kind": "line",
+   "scene": 5,
+   "speaker": "MATT",
+   "text": "Of course. Hospitality doesn't begin and end with one holiday. You could invite friends for a meal, host a game night, organize a service project, or simply spend time with family.",
+   "dir": "",
+   "start": 1299.18,
+   "end": 1310.86
+  },
+  {
+   "kind": "line",
+   "scene": 5,
+   "speaker": "TIM",
+   "text": "Maybe a harvest dinner. No scary decorations, no pretending fear is the fun part. Just people together.",
+   "dir": "",
+   "start": 1310.86,
+   "end": 1318.53
+  },
+  {
+   "kind": "line",
+   "scene": 5,
+   "speaker": "MATT",
+   "text": "And something meaningful to celebrate.",
+   "dir": "",
+   "start": 1318.89,
+   "end": 1321.36
+  },
+  {
+   "kind": "line",
+   "scene": 5,
+   "speaker": "TIM",
+   "text": "And brownies.",
+   "dir": "",
+   "start": 1321.36,
+   "end": 1322.35
+  },
+  {
+   "kind": "line",
+   "scene": 5,
+   "speaker": "MATT",
+   "text": "Naturally.",
+   "dir": "",
+   "start": 1322.35,
+   "end": 1323.13
+  },
+  {
+   "kind": "line",
+   "scene": 5,
+   "speaker": "TIM",
+   "text": "If you're a parent listening, here's a question you can ask your family: “What do we want our celebrations to teach about what matters to us?” You don't even need a timeline simulator for that one.",
+   "dir": "Turns directly toward the listener.",
+   "start": 1323.13,
+   "end": 1336.96
+  },
+  {
+   "kind": "line",
+   "scene": 5,
+   "speaker": "MATT",
+   "text": "And if you do own one, keep your children away from the red dial.",
+   "dir": "",
+   "start": 1336.96,
+   "end": 1341.38
+  },
+  {
+   "kind": "cue",
+   "scene": 5,
+   "type": "SFX",
+   "text": "The red dial gives a single, suspicious chirp.",
+   "t": 1341.38
+  },
+  {
+   "kind": "line",
+   "scene": 5,
+   "speaker": "TIM",
+   "text": "I didn't touch it!",
+   "dir": "",
+   "start": 1341.38,
+   "end": 1342.65
+  },
+  {
+   "kind": "line",
+   "scene": 5,
+   "speaker": "MATT",
+   "text": "This time.",
+   "dir": "",
+   "start": 1343.66,
+   "end": 1344.31
+  },
+  {
+   "kind": "cue",
+   "scene": 6,
+   "type": "Music",
+   "text": "Opening theme returns slowly as a tender instrumental, no longer mysterious.",
+   "t": 1343.31
+  },
+  {
+   "kind": "cue",
+   "scene": 6,
+   "type": "SFX",
+   "text": "Clock ticks steadily. Autumn wind murmurs outside. The room hum is familiar and cozy.",
+   "t": 1343.31
+  },
+  {
+   "kind": "line",
+   "scene": 6,
+   "speaker": "TIM",
+   "text": "Matt, I think I finally understand why you said no to the party.",
+   "dir": "",
+   "start": 1344.31,
+   "end": 1348.42
+  },
+  {
+   "kind": "line",
+   "scene": 6,
+   "speaker": "MATT",
+   "text": "Tell me in your own words.",
+   "dir": "",
+   "start": 1348.42,
+   "end": 1350.19
+  },
+  {
+   "kind": "line",
+   "scene": 6,
+   "speaker": "TIM",
+   "text": "You aren't against people gathering. You aren't against laughter, food, or costumes simply because they are costumes. You believe history deserves attention, and you don't want your celebration to borrow meanings or practices that conflict with your faith.",
+   "dir": "",
+   "start": 1350.19,
+   "end": 1365.34
+  },
+  {
+   "kind": "line",
+   "scene": 6,
+   "speaker": "MATT",
+   "text": "That's a very fair summary.",
+   "dir": "",
+   "start": 1366.29,
+   "end": 1368.17
+  },
+  {
+   "kind": "line",
+   "scene": 6,
+   "speaker": "TIM",
+   "text": "I also learned that history is messier than a straight line from an ancient bonfire to a modern candy bowl.",
+   "dir": "",
+   "start": 1368.17,
+   "end": 1375.42
+  },
+  {
+   "kind": "line",
+   "scene": 6,
+   "speaker": "MATT",
+   "text": "Very true.",
+   "dir": "",
+   "start": 1376.26,
+   "end": 1376.97
+  },
+  {
+   "kind": "line",
+   "scene": 6,
+   "speaker": "TIM",
+   "text": "And that you can have strong convictions without treating everyone who disagrees as an enemy.",
+   "dir": "",
+   "start": 1376.97,
+   "end": 1382.99
+  },
+  {
+   "kind": "line",
+   "scene": 6,
+   "speaker": "MATT",
+   "text": "Especially that.",
+   "dir": "",
+   "start": 1384.0,
+   "end": 1385.48
+  },
+  {
+   "kind": "line",
+   "scene": 6,
+   "speaker": "TIM",
+   "text": "I have some reading to do. I want to look up Psalm 24, Jeremiah 10, Deuteronomy 18, Isaiah 56, Romans 14, and those other passages. Not just pull out one sentence because it supports what I already want.",
+   "dir": "",
+   "start": 1385.48,
+   "end": 1401.42
+  },
+  {
+   "kind": "line",
+   "scene": 6,
+   "speaker": "MATT",
+   "text": "That's the heart of good research—and wise faith.",
+   "dir": "",
+   "start": 1401.42,
+   "end": 1404.98
+  },
+  {
+   "kind": "line",
+   "scene": 6,
+   "speaker": "TIM",
+   "text": "You know what's funny? I invited you because I wanted to spend time with my friend. That part of the invitation is still good. Maybe it doesn't have to happen at that party.",
+   "dir": "Smiling.",
+   "start": 1405.3,
+   "end": 1416.72
+  },
+  {
+   "kind": "line",
+   "scene": 6,
+   "speaker": "MATT",
+   "text": "It certainly doesn't.",
+   "dir": "",
+   "start": 1416.72,
+   "end": 1418.16
+  },
+  {
+   "kind": "line",
+   "scene": 6,
+   "speaker": "TIM",
+   "text": "Then how about Saturday evening? Dinner. Friends. Games. A celebration of all the good things God's given us.",
+   "dir": "",
+   "start": 1418.16,
+   "end": 1425.38
+  },
+  {
+   "kind": "line",
+   "scene": 6,
+   "speaker": "MATT",
+   "text": "I'd love that.",
+   "dir": "",
+   "start": 1425.66,
+   "end": 1426.77
+  },
+  {
+   "kind": "line",
+   "scene": 6,
+   "speaker": "TIM",
+   "text": "Excellent. I'll bring the brownies.",
+   "dir": "",
+   "start": 1426.77,
+   "end": 1429.44
+  },
+  {
+   "kind": "cue",
+   "scene": 6,
+   "type": "SFX",
+   "text": "He folds the party diagram.",
+   "t": 1429.44
+  },
+  {
+   "kind": "line",
+   "scene": 6,
+   "speaker": "MATT",
+   "text": "Without the arrows this time?",
+   "dir": "",
+   "start": 1429.44,
+   "end": 1431.66
+  },
+  {
+   "kind": "line",
+   "scene": 6,
+   "speaker": "TIM",
+   "text": "The arrows are non-negotiable.",
+   "dir": "",
+   "start": 1431.66,
+   "end": 1434.03
+  },
+  {
+   "kind": "line",
+   "scene": 6,
+   "speaker": "MATT",
+   "text": "From ancient hillsides to modern sidewalks, you've traveled with us through stories, traditions, and questions of conscience. Wherever you land on this question, remember to pursue truth with care, treat people with love, and choose what honors God.",
+   "dir": "Turns toward listener.",
+   "start": 1434.38,
+   "end": 1450.48
+  },
+  {
+   "kind": "line",
+   "scene": 6,
+   "speaker": "TIM",
+   "text": "And don't bump into furniture while exploring history.",
+   "dir": "",
+   "start": 1450.48,
+   "end": 1454.82
+  },
+  {
+   "kind": "cue",
+   "scene": 6,
+   "type": "SFX",
+   "text": "Tim's chair nudges the real metal table; a pencil cup shivers ominously.",
+   "t": 1454.82
+  },
+  {
+   "kind": "line",
+   "scene": 6,
+   "speaker": "MATT",
+   "text": "Tim.",
+   "dir": "",
+   "start": 1454.82,
+   "end": 1455.5,
+   "interpolated": true
+  },
+  {
+   "kind": "line",
+   "scene": 6,
+   "speaker": "TIM",
+   "text": "I know. I know. The room is real.",
+   "dir": "",
+   "start": 1455.5,
+   "end": 1458.83
+  },
+  {
+   "kind": "cue",
+   "scene": 6,
+   "type": "Music",
+   "text": "Full, warm closing theme rises.",
+   "t": 1459.28
+  },
+  {
+   "kind": "line",
+   "scene": 6,
+   "speaker": "MATT",
+   "text": "History is worth understanding.",
+   "dir": "",
+   "start": 1459.73,
+   "end": 1462.85
+  },
+  {
+   "kind": "line",
+   "scene": 6,
+   "speaker": "TIM",
+   "text": "Faith is worth examining.",
+   "dir": "",
+   "start": 1462.85,
+   "end": 1465.39
+  },
+  {
+   "kind": "line",
+   "scene": 6,
+   "speaker": "MATT",
+   "text": "And your choices—",
+   "dir": "",
+   "start": 1465.39,
+   "end": 1467.05
+  },
+  {
+   "kind": "line",
+   "scene": 6,
+   "speaker": "TIM",
+   "text": "—are worth making on purpose.",
+   "dir": "",
+   "start": 1467.05,
+   "end": 1469.88
+  },
+  {
+   "kind": "cue",
+   "scene": 6,
+   "type": "SFX",
+   "text": "One final digital shutdown chime. Clock continues ticking. Music resolves and fades.",
+   "t": 1470.08
+  }
+ ]
+}

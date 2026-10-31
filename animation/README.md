@@ -18,13 +18,38 @@ This folder holds a full-length animated version of the audio play *HalloweenHis
 | `js/main.js` | The director: scene schedule and torn-paper transitions, poses from the script's stage directions, on-screen cards (dates, Scripture references, the four questions, the new invitation), captions, and the intro and closing titles. |
 | `render.js` | Renders every frame in headless Chromium and encodes it with ffmpeg, then adds the audio (delayed 5 s for the title card). |
 
-## Re-rendering
+## Building the video on your computer
+
+Use `build.py` in the repo root. It needs Python 3.8+ (no Node).
 
 ```bash
-node animation/render.js The-Halloween-Party-Invitation-Animated.mp4 4 12
+python build.py --install-deps
 ```
 
-The arguments are the output file, the number of parallel workers and the frame rate. This needs Node with Playwright/Chromium and ffmpeg.
+```bash
+python build.py --preview
+```
+
+```bash
+python build.py
+```
+
+1. `--install-deps` is a one-time setup. It installs Playwright, Chromium and an ffmpeg binary.
+2. `--preview` renders a 30-second test clip to `preview.mp4`.
+3. With no options, it builds the full video, `The-Halloween-Party-Invitation-Animated.mp4`.
+
+Useful options:
+
+| Option | What it does |
+|--------|--------------|
+| `--out FILE` | Choose the output file |
+| `--fps 24` | Smoother motion (12 = stop-motion look) |
+| `--crf 18` | Higher quality, larger file |
+| `--workers N` | Number of parallel renderers (defaults to your CPU count, max 8) |
+| `--start S --end E` | Render only part of the timeline, in seconds |
+| `--chromium PATH` | Use a Chrome/Chromium you already have installed |
+
+`animation/render.js` is the Node version that was used to make the copy committed here. It encodes to ~400 kb/s so the file fits under GitHub's 100 MB limit.
 
 To re-time after re-recording the audio, re-run the speech-to-text, then:
 
